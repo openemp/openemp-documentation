@@ -1,0 +1,8 @@
+site_name: OpenEMP
+theme:
+  name: material
+  language: en
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/favicon.png
