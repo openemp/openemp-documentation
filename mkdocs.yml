@@ -6,3 +6,16 @@ theme:
     text: Roboto
     code: Roboto Mono
   favicon: assets/favicon.png
+markdown_extensions:
+  - codehilite
+nav:
+  - Introduction: 'index.md'
+  - Getting Started:
+    - Run OpenEMP: 'getting-started/start.md'
+  - Contribution:
+    - Code of Conduct: 'contribution/code-of-conduct.md'
+    - How To Contribute: 'contribution/how-to-contribute.md'
+  - Services:
+    - Configurator: 'services/configurator.md'
+  - About:
+    - License: 'about/license.md'
