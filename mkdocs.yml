@@ -11,11 +11,15 @@ markdown_extensions:
 nav:
   - Introduction: 'index.md'
   - Getting Started:
-    - Run OpenEMP: 'getting-started/start.md'
+      - Run OpenEMP: 'getting-started/start.md'
+  - User Guide: ''
+  - Implementer Guide: ''
+  - Developer Guide: ''
   - Contribution:
     - Code of Conduct: 'contribution/code-of-conduct.md'
     - How To Contribute: 'contribution/how-to-contribute.md'
-  - Services:
-    - Configurator: 'services/configurator.md'
+  - OpenEMP Services:
+    - User Service: 'services/users.md'
   - About:
+    - Get in touch: 'about/contact.md'
     - License: 'about/license.md'
