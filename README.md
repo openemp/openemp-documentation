@@ -47,4 +47,4 @@ Please read more about how to enhance the OpenEMP mkdocs documentation from [her
 
 ### Let's Get in touch
 
-please feel free to reach out to us in [Talk](talk.openemp.org) or via [email](contact@openemp.org)
+please feel free to reach out to us in [Talk](https://talk.openemp.org) or via [email](mailto:contact@openemp.org)
