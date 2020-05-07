@@ -3,7 +3,7 @@ As a software it serves as an Education Management System (EMS). it provides too
 As a community we try to support education systems on scale by exchanging knowledge and put it in execution. 
 If you are interested in learning more about the OpenEMP community, you may try starting with the following.
 
-## Welcome to documentation
+## Welcome to documentation ..
 
 We are trying to figure out things, therefore please find out in the list below the section that you think it suits you more:
 
