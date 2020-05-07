@@ -8,8 +8,6 @@ theme:
   favicon: assets/favicon.png
 markdown_extensions:
   - codehilite
-  - toc:
-      baselevel: 1
 nav:
   - Introduction: 'index.md'
   - Getting Started:
