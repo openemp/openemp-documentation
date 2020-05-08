@@ -4,7 +4,7 @@ this is the documentation for OpenEMP, accessible from here: https://docs.openem
 ### Requirements:
 
 - Python >= 2.7
-- pip >= 18.1
+- pip
 - git
 - mkdocs
 
