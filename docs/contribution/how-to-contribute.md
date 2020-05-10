@@ -20,6 +20,3 @@ Be part of the Technical support team and take the lead to back the infrastrectu
 ## Help the community
 In OpenEMP we have the space for everyone, and we're glad to see you genuinely supporting the community.
 You can support the community by providing the learning materials, translating resources, engaging new members ...
-
-
-
