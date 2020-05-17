@@ -27,4 +27,4 @@ Feel free to submit a proposal for Adding a service to our platform, simply prov
 Be part of the Technical support team and take the lead to back the infrastrecture on which the community is relying
 ### Help the community
 In OpenEMP everyone is welcome, and we're glad to see you genuinely supporting the community.
-wether by providing the learning materials, translating resources, engaging new members ... You can always reach us [here](../about/contact.md)
+wether by providing the learning materials, translating resources, engaging new members ... You can always reach us [here](../about/community.md)

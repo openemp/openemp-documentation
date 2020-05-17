@@ -4,7 +4,6 @@
 ### Signup a User
 
 #### URL
-
 ```
 api/v1/users/signup
 ```
@@ -12,17 +11,6 @@ api/v1/users/signup
 #### Method
 
 `POST`
-
-
-#### URL Params
-
-
-##### Required
-
-
-##### Optional
-
-
 
 #### Body
 ```json
@@ -34,12 +22,6 @@ api/v1/users/signup
 	"role": "admin"
 }
 ```
-
-
-#### Success Response:
-
-
-
 ### Authenticate user
 to authenticate a user, one should provide a username and provide and the response going to be a JWT Token to be used by the user to execute any request that require authentication
 
@@ -67,7 +49,6 @@ content:
   "JWT" : "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
 }
 ``` 
-
 
 ### get User profiles
 

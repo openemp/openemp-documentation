@@ -16,17 +16,15 @@ markdown_extensions:
   - toc:
       toc_depth: 3
 nav:
-  - Introduction: 'index.md'
-  - Getting Started:
-      - Run OpenEMP: 'getting-started/start.md'
-  - User Guide: 'user/index.md'
-  - Implementer Guide: 'implementer/index.md'
-  - Developer Guide: 'dev/index.md'
-    - API documentation :
-      - USER API: 'services/users.md' 
-  - Contribution:
-    - Code of Conduct: 'contribution/code-of-conduct.md'
-    - How To Contribute: 'contribution/how-to-contribute.md'
-  - About:
-    - Get in touch: 'about/contact.md'
+  - Getting started: 'index.md'
+  - About OpenEMP:
+    - Community: 'about/community.md'
+    - OpenEMP Architecture: about/core.md
+    - How To Contribute: 'about/how-to-contribute.md'
+    - Code of conduct: about/code-of-conduct.md
     - License: 'about/license.md'
+  - Developer Guide: 
+    - Guidelines: 'dev/guidelines.md'
+    - Services :
+      - Service definition: services/index.md
+      - OpenEMP User: 'services/user.md'
