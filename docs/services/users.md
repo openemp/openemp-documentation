@@ -14,7 +14,6 @@ api/v1/users/signup
 `POST`
 
 
-
 #### URL Params
 
 
