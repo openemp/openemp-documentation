@@ -12,7 +12,7 @@ We so far have 4 types of services:
 - **System Service**: is a service that play a role in the orchestration between services, doesn't take part of the education model but ensure the data management across services
 
 !!! note
-    data service can only communicate with one API service (it's a OneToOne relationship)
+    data service should only communicate with one API service (it's a OneToOne relationship)
 
 
 ## Services Design
@@ -27,3 +27,6 @@ For more details about OpenEMP services, please check the services documentation
 
 here is the initial core data model for OpenEMP
 ![OpenEMP Data model](../assets/images/data_model.jpg)
+
+!!! note
+    OpenEMP Initial Data model is set for demonstration and most relationships will be break down because of the microservices architecture.
