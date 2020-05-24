@@ -23,9 +23,39 @@ The following sketch is a demonstration of OpenEMP microservices:
 
 For more details about OpenEMP services, please check the services documentation [here](../services/index.md)
 
+
+## System Services
+
+While there is services that altogether define how OpenEMP is working, there's other services that support the system architecture.
+
+### Configurator
+
+This is an API Service that read the "config folder" and provide it to all other services, an OpenEMP service should store the configuration files in the config folder to be included in the distrubtion definition
+
+### Initializer
+
+The initialzer is an API Service that initiate all services with metadata, therefore services shouldn't keep their data within their defition (code source)
+
+## Data Levels
+
+Data in OpenEMP are handled in 3 levels:
+
+#### Config
+
+The data that define how services should behave, this allows to enable options or define strectures, it could be in a format of Environment variables, properties or JSON files...
+
+#### Metadata
+
+these are data that should be filled in the system in order to be able to store information (eg: department names, possible user attributes ...) this should be prvided as data to be imported in a format of CSV, XML...
+
+#### Data
+
+This is all data stored in services and entered to the system by users. the data here are stored in databases.
+
 ## Data model
 
 here is the initial core data model for OpenEMP
+
 ![OpenEMP Data model](../assets/images/data_model.jpg)
 
 !!! note
