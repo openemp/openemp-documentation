@@ -5,7 +5,7 @@
 
 #### URL
 ```
-api/v1/users/signup
+api/v1/users
 ```
 
 #### Method
@@ -19,7 +19,7 @@ api/v1/users/signup
 	"password": "password",
 	"email": "test@mail.me",
 	"active": "true",
-	"role": "admin"
+	"type": "ADMIN"
 }
 ```
 ### Authenticate user
@@ -46,7 +46,7 @@ sucess: 200
 content:
 ```json
 {
-  "JWT" : "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+  "JWT" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
 }
 ``` 
 
