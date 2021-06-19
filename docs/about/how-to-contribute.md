@@ -13,7 +13,7 @@ If you're a teacher or an administrator within the education system, we apprecia
 ### Developer
 As a developer you're welcome to contribute in different ways
 !!! note
-    First please check our guidelines, and if you're a beginner check our guide for you here.
+    First please check our [guidelines](../dev/guidelines.md), and if you're a beginner check our guide for you here.
 
 - #### Fixing issues
 We are not prefect and so is our code, feel free to pick a [github](https://github.com/openemp) ticket/issue  and follow the steps in developement on how to merge your contribution.
