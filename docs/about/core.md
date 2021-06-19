@@ -56,7 +56,7 @@ This is all data stored in services and entered to the system by users. the data
 
 here is the initial core data model for OpenEMP
 
-![OpenEMP Data model](../assets/images/data_model.jpg)
+![OpenEMP Data model](../assets/images/data_model.png)
 
 !!! note
     OpenEMP Initial Data model is set for demonstration and most relationships will be break down because of the microservices architecture.
