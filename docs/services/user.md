@@ -15,9 +15,9 @@ api/v1/users
 #### Body
 ```json
 {
-	"username": "superman",
-	"password": "password",
-	"email": "test@mail.me",
+	"username": "admin",
+	"password": "P@$$w0rd",
+	"email": "admin@mail.me",
 	"active": "true",
 	"type": "ADMIN"
 }
@@ -37,8 +37,8 @@ to authenticate a user, one should provide a username and provide and the respon
 #### Body 
 ```json
 {
-  "username" : "superman",
-  "password" : "p@ssw0rd"
+  "username" : "admin",
+  "password" : "P@$$w0rd"
 }
 ```
 #### Response
@@ -66,7 +66,7 @@ uuid -> User UUID **Required**
 content
 ```json
 {
-  "username": "username",
+  "username": "admin",
   "profiles": [
     {
       "uuid": "a2bf2e8c-4972-4bdc-b80b-5d81ba0bdfb3",

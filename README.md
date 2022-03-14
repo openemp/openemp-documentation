@@ -1,5 +1,7 @@
 ## OpenEMP Documentation
-this is the documentation for OpenEMP, accessible from here: https://docs.openemp.org
+[![CodeFactor](https://www.codefactor.io/repository/github/openemp/openemp-documentation/badge)](https://www.codefactor.io/repository/github/openemp/openemp-documentation)
+
+This is the documentation for OpenEMP, accessible from here: https://docs.openemp.org
 
 ### Requirements:
 
