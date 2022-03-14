@@ -11,7 +11,7 @@ mkdocs==1.2.3
 mkdocs-material==5.1.5
 mkdocs-material-extensions==1.0b2
 mkdocs-toc-sidebar-plugin==0.1.0
-nltk==3.5
+nltk==3.6.6
 Pygments==2.7.4
 pymdown-extensions==7.1
 PyYAML==5.4
